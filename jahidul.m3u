@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” NTV
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png”, NTV
 http://172.16.29.34/ontest1/ontest1/393
